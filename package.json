@@ -1,0 +1,20 @@
+{
+    "name": "telegram-bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "oimasterkafuu",
+    "license": "AGPL-3.0-only",
+    "scripts": {
+        "format": "prettier --write \"**/*.{js,vue,html,css,scss,json,md}\"",
+        "postinstall": "patch-package"
+    },
+    "devDependencies": {
+        "patch-package": "^8.0.0",
+        "postinstall-postinstall": "^2.1.0",
+        "prettier": "^3.2.5",
+        "wrangler": "^3.28.2"
+    },
+    "dependencies": {
+        "@google/generative-ai": "^0.2.1"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "token": "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "prompt": "<your prompt>",
+    "gemini": "<your google gemini key>"
+}
