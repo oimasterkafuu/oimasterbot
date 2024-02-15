@@ -1,5 +1,10 @@
 {
     "token": "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "prompt": "<your prompt>",
-    "gemini": "<your google gemini key>"
+    "gemini": "<your google gemini key>",
+    "leancloud": {
+        "appId": "<your leancloud app id>",
+        "appKey": "<your leancloud app key>",
+        "serverURL": "<your leancloud server url>"
+    }
 }
